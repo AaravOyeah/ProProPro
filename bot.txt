@@ -1,0 +1,5 @@
+{
+	"ip":"TechnoEE.aternos.me",
+	"port": "42051",
+	"name": "TechnoBlade"
+}
